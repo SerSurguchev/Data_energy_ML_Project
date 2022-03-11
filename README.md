@@ -1,6 +1,6 @@
 # Data_energy_ML_Project
 
-Источники:
+# Источники:
 1) https://github.com/ageron/handson-ml
 2) https://github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb
 3) https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
